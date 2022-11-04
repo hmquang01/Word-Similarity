@@ -42,3 +42,9 @@ có_lí		vô_lí			ANT
 lí_thú		lý_thú			SYN
 
 4.	Reference documents in directory Reference.
+
+D.	Guide
+1.	Problem 1 & 2
+Clone this repository, download pretrained w2v model at 'problem\word2vec\link' to folder 'problem\word2vec'. Run 'problem121.py'
+2.	Problem 3
+Upload this repository to Google Drive, open file 'NLP_Problem3.ipynb' with Google Colab and run all blocks
